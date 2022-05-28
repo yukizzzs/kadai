@@ -13,7 +13,7 @@ def serch_index(sorted_array, target_number):
     # ここから記述
     
     #初期条件
-    #L:配列の左端のindex,L:配列の右端のindex
+    #L:配列の左端のindex,R:配列の右端のindex
     L=0
     R=len(sorted_array)-1
     
